@@ -48,7 +48,7 @@ F --> E
 |---|---|
 | ![Hardware setup](media/hardware-setup.jpeg) | ![Circuit diagram](media/circuit-diagram.jpeg) |
 
-🎥 [Watch demo video](media/demo.mp4)
+https://github.com/user-attachments/assets/e4762050-50a7-44a7-8dad-a95151c8a1e4
 
 ---
 
